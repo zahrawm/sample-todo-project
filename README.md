@@ -1,2 +1,2 @@
 # sample-todo-project
-This is my todo projects
+Sample Todo Task Project built with React Tailwind  Typescript
