@@ -18,15 +18,5 @@ This app includes task filtering, searching, sorting, and localStorage persisten
 - 🌙 Dark UI with clean design (Tailwind CSS)
 - 🎯 Lucide icons for a polished look
 
----
 
-## 📸 Preview
-
-> Coming soon! (Add screenshots or a deployed link here)
-
----
-
-
-
-## 📁 Project Structure
 
