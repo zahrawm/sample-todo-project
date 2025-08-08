@@ -3,7 +3,6 @@
 
 import { AlertCircle, Calendar, Check, Edit, Trash2 } from "lucide-react";
 import type { Task } from "../types";
-
  
  export const TaskItem: React.FC<{
   task: Task;

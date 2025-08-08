@@ -1,9 +1,7 @@
 
-
 import { Zap } from "lucide-react";
 import type { Task, FilterType } from "../types";
 import { TaskItem } from "./TaskItem";
-
 
  export const TaskList: React.FC<{
   tasks: Task[];

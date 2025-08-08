@@ -1,8 +1,6 @@
 
-
 import { Search, ChevronDown, Plus } from "lucide-react";
 import type { FilterType, SortType } from "../types";
-
  export const Toolbar: React.FC<{
   filter: FilterType;
   onFilterChange: (filter: FilterType) => void;

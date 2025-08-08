@@ -74,7 +74,6 @@ import { Toolbar } from '../Components/Toolbar';
     }
   };
 
-  
   const filteredTasks = tasks
     .filter(task => {
       const matchesFilter = 
